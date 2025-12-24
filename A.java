@@ -7,6 +7,7 @@ int cv=4401:
 
 String="AAyushi";
 
-       System.out.println(".(x)");
+      
+     
      }
 }
