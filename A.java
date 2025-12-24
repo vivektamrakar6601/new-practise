@@ -5,7 +5,10 @@ int xz=6601;
 int cv=4401:
 String="AAyushi";
 
-int=100000009999;
+
+
+String="name";
+
        System.out.println(".(x)");
      }
 }
