@@ -16,7 +16,7 @@ String="AAyushi";
      }
 
 }
-<<<<<<< HEAD
+
 ok
 
 om namah parwati patay har har mahadev
